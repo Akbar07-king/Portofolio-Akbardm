@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio Akbar Diva Mahendra</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    section {
+      background-color: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Akbar Diva Mahendra</h1>
+  <p>Sarjana Perencanaan Wilayah dan Kota | Pengalaman surveyor, penyusun RDTR, dan administrasi</p>  <section>
+    <h2>Tentang Saya</h2>
+    <p>Lulusan Teknik PWK Universitas Semarang. Saat ini aktif sebagai freelance penyusun RDTR dan membantu usaha keluarga. Tertarik pada bidang pembangunan wilayah dan penggunaan teknologi spasial.</p>
+  </section>  <section>
+    <h2>Keahlian</h2>
+    <ul>
+      <li>AutoCAD & ArcGIS</li>
+      <li>Analisis data spasial dan survei lapangan</li>
+      <li>Penyusunan dokumen perencanaan (RDTR, potensi desa)</li>
+      <li>Administrasi dan pembuatan konten digital</li>
+    </ul>
+  </section>  <section>
+    <h2>Portofolio</h2>
+    <ul>
+      <li>RDTR Kecamatan Tamansari</li>
+      <li>Pemetaan Potensi Desa Kec. Weleri & Rowosari</li>
+      <li>Surveyor air limbah Boyolali</li>
+      <li>Freelance DPU Boyolali (2025)</li>
+    </ul>
+  </section>  <section>
+    <h2>Kontak</h2>
+    <p>Email: akbardiva@email.com</p>
+    <p>LinkedIn: linkedin.com/in/akbardiva</p>
+  </section>
+</body>
+</html>
